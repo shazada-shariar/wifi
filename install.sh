@@ -9,6 +9,20 @@ clear
 echo "
 figlet -f big SHAHRIAR !!! | lolcat
 
+Careted by SULTAN SHARIAR !!! | lolcat
+
+Note: This Script only for Roted Divais !!! | lolcat
+
+figlet -f big KING !!! | lolcat
+
+figlet -f big Termux !!! | lolcat
+
+figlet -f big Commands !!! | lolcat
+
+Afg KING(((SULTAN___SHARIAR))) !!! | lolcat
+
+!!! ______________________________________________ !!! | lolcat
+!!! ____________________××××______________________ !!! | lolcat
 ";
 
 echo "Checking directories...";
