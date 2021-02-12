@@ -3,24 +3,80 @@
 
 
 clear
-echo "
-figlet -f big SHAHRIAR !!! | lolcat
+clear
+apt update
+apt upgrade
+apt install figlet -y
+figlet Basic Installation
+apt install toilet -y
+apt install cowsay -y
+apt install nano -y
+apt install ruby -y
+gem install lolcat
+apt install git curl openssh openssl openssl-tool -y
 
-Careted by SULTAN SHARIAR !!! | lolcat
+figlet -f big Shariar !!! | lolcat
 
-Note: This Script only for Roted Divais !!! | lolcat
+sleep 5
+
+
 
 figlet -f big KING !!! | lolcat
 
+sleep 5
+
+
 figlet -f big Termux !!! | lolcat
+
+
+sleep 2
+
 
 figlet -f big Commands !!! | lolcat
 
-Afg KING(((SULTAN___SHARIAR))) !!! | lolcat
 
-!!! ______________________________________________ !!! | lolcat
-!!! ____________________××××______________________ !!! | lolcat
-";
+sleep 5
+
+
+figlet -f big wifi hack !!! | lolcat
+
+
+sleep 4
+
+
+figlet -f big  Afg  !!! | lolcat
+
+sleep 2
+
+figlet -f big  Wifi  !!! | lolcat
+
+sleep 1
+
+figlet -f big  Tool  !!! | lolcat
+
+sleep 1
+
+figlet -f big  Shariar khan  !!! | lolcat
+
+echo " Careted by Sultan Shariar " | lolcat
+
+sleep 1
+
+echo " TERMUX COMMANDS CHINAL " | lolcat
+
+sleep 1
+
+echo " Note: This Script only for roted " | lolcat
+
+sleep 7
+
+echo " King AFG (SULTAN_SHARIAR) " | lolcat
+
+echo " Plese with... "
+
+sleep 3
+
+
 
 echo "Checking directories...";
 if [ -d "/data/data/com.termux/files/usr/share/doc/WI-TOOLKIT" ] ;
