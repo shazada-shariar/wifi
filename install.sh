@@ -1,9 +1,6 @@
 #!/bin/bash
 
 
-# GREETINGS TO : https://web.facebook.com/daisuke.chiba1     (RO N EL)
-# GREETINGS TO : https://web.facebook.com/jflorence07        (Jflorence De Chavez)
-
 
 clear
 echo "
