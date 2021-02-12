@@ -1,5 +1,4 @@
-# greetings to : https://web.facebook.com/daisuke.chiba1     (RO N EL)
-# greetings to : https://web.facebook.com/jflorence07        (Jflorence De Chavez)
+
 
 clear
 
